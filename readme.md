@@ -5,7 +5,7 @@ This is an OOP task manager accessible via the CMD.
 This was as a project for MPCS50101-Summer2022.
 
 # Description
-To use the app, run the file `todo.py` in the command line with the desired flag representing an action. To see available options, run `todo.py --h` (or see below)
+To use the app, run the file `todo.py` from the command line with the desired flag representing an action. To see available options, run `todo.py --h` (or see below)
 
 - With the app one can create a list of tasks with their respectives due dates and priorities. The task list will be saved in the disk as a `pickle` file
 - The app keeps track of the creation date, number of days since creation and which tasks are finished or not
