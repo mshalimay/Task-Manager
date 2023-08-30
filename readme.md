@@ -1,8 +1,6 @@
 # Command Line Task Manager
 
-This is an OOP task manager accessible via the CMD.
-
-This was as a project for MPCS50101-Summer2022.
+This is an OOP task manager accessible via the CMD created as project for MPCS50101-Summer2022.
 
 # Description
 To use the app, run the file `todo.py` from the command line with the desired flag representing an action. To see available options, run `todo.py --h` (or see below)
